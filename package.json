@@ -1,0 +1,19 @@
+{
+  "name": "ts-maps",
+  "version": "1.0.0",
+  "description": "Typescript Random Map Marker",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.5.2"
+  },
+  "devDependencies": {
+    "@types/faker": "^5.5.0",
+    "@types/googlemaps": "^3.43.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
